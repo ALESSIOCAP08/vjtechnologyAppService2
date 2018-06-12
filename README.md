@@ -1,0 +1,2 @@
+# vjtechnologyAppService2
+DemoCorsoVjtechnologyAppService2
